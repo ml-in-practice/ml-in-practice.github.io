@@ -1,12 +1,10 @@
 github_users:
-  - torvalds
-  - alshedivat
+  - ml-in-practice
+  - mengelhard
 
 github_repos:
-  - alshedivat/al-folio
-  - twbs/bootstrap
-  - jekyll/jekyll
-  - jquery/jquery
-  - FortAwesome/Font-Awesome
-  - jpswalsh/academicons
-  - mathjax/MathJax
+  - ml-in-practice/reading-group
+  - ml-in-practice/collaborative-ml-notebooks
+  - ml-in-practice/rare_event_mll
+  - mengelhard/dnmc
+  - mengelhard/tte-performance
